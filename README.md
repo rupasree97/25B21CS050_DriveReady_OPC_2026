@@ -8,9 +8,9 @@ This repository contains my daily assignments, coding exercises, and practical i
 
 | Day | Topic | Work |
 |-----|-------|------|
-| [Day 1](./Day-1) | First LLM API Call | Connected to an LLM using the Groq API |
-| [Day 2](./Day-2) | System Prompts and Python | Built a Sweet Crumbs Home Bakery chatbot |
-| [Day 3](./Day-3) | First Agent with LangChain | Built a bakery assistant using LangChain, prompt templates, memory, testing, and an agent demonstration |
+| [Day 1](./Day1) | First LLM API Call | Connected to an LLM using the Groq API |
+| [Day 2](./Day2) | System Prompts and Python | Built a Sweet Crumbs Home Bakery chatbot |
+| [Day 3](./Day3) | First Agent with LangChain | Built a bakery assistant using LangChain, prompt templates, memory, testing, and an agent demonstration |
 
 ## Technologies Used
 
@@ -24,18 +24,19 @@ This repository contains my daily assignments, coding exercises, and practical i
 ## Repository Structure
 
 ```
-Roll_Number_DriveReady_OPC_2026/
+25B21CS050_DriveReady_OPC_2026/
 ├── README.md
-├── Day-1/    First LLM API Call
-├── Day-2/    Sweet Crumbs Home Bakery Chatbot
-├── Day-3/    LangChain Bakery Assistant and Testing
+├── Day1/    First LLM API Call
+├── Day2/    Sweet Crumbs Home Bakery Chatbot
+└── Day3/    LangChain Bakery Assistant and Testing
 ```
 
 Each day's folder contains the task source code and its own `README.md` describing the task and implementation.
 
 ## Author
-Name: Rupa Sree Bodem
-Roll Number:25B21CS050
+
+**Name:** Your Name
+**Roll Number:** 25B21CS050
 CSE Student | AI and LLM Agent Learner
 
 ---
